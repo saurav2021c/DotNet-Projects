@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\services\\ireptileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\services\\ireptileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\controllers\\birdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\controllers\\birdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\services\\birdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\services\\birdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\services\\ibirdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\services\\ibirdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\models\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\models\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\controllers\\reptilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\controllers\\reptilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\services\\reptileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\services\\reptileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\services\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\services\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\services\\idogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\services\\idogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|d:\\artelligence assignments_saurav\\animalbirdapi\\animalbirdapi\\animalbirdapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A5323AC-905D-4D67-8814-EE69AFCD370E}|AnimalBirdAPI\\AnimalBirdAPI.csproj|solutionrelative:animalbirdapi\\animalbirdapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BirdService.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Services\\BirdService.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Services\\BirdService.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Services\\BirdService.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Services\\BirdService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:53:04.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Program.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Program.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:47:33.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Models\\Bird.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Models\\Bird.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Models\\Bird.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Models\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:49:34.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Models\\Dog.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Models\\Dog.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:49:04.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reptile.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Models\\Reptile.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Models\\Reptile.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Models\\Reptile.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Models\\Reptile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:07:06.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBirdService.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Services\\IBirdService.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Services\\IBirdService.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Services\\IBirdService.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Services\\IBirdService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:51:20.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BirdController.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Controllers\\BirdController.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Controllers\\BirdController.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Controllers\\BirdController.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Controllers\\BirdController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:55:33.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReptileService.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Services\\ReptileService.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Services\\ReptileService.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Services\\ReptileService.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Services\\ReptileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:08:41.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IReptileService.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Services\\IReptileService.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Services\\IReptileService.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Services\\IReptileService.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Services\\IReptileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:08:00.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReptileController.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Controllers\\ReptileController.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Controllers\\ReptileController.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Controllers\\ReptileController.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Controllers\\ReptileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:09:14.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DogService.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Services\\DogService.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Services\\DogService.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Services\\DogService.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Services\\DogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:52:37.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Controllers\\DogController.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Controllers\\DogController.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Controllers\\DogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:54:48.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDogService.cs",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Services\\IDogService.cs",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\Services\\IDogService.cs",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\Services\\IDogService.cs",
+              "RelativeToolTip": "AnimalBirdAPI\\Services\\IDogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:50:45.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnimalBirdAPI",
+              "DocumentMoniker": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\AnimalBirdAPI.csproj",
+              "RelativeDocumentMoniker": "AnimalBirdAPI\\AnimalBirdAPI.csproj",
+              "ToolTip": "D:\\Artelligence Assignments_Saurav\\AnimalBirdAPI\\AnimalBirdAPI\\AnimalBirdAPI.csproj",
+              "RelativeToolTip": "AnimalBirdAPI\\AnimalBirdAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T06:48:25.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
